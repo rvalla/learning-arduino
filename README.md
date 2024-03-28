@@ -1,4 +1,4 @@
-![logo](https://gitlab.com/rodrigovalla/arduino_learning/-/raw/themoststable/assets/img/icon_64.png)
+![logo](https://gitlab.com/rodrigovalla/learning-arduino/-/raw/themoststable/assets/img/icon_64.png)
 
 # Arduino Learning
 
